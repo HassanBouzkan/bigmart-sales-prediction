@@ -5,12 +5,19 @@ A machine learning regression project predicting retail sales revenue using the 
 ## Project Structure
 
 .
+
 ├── README.md
+
 ├── notebooks/
+
 │   └── bigmart_analysis.ipynb
+
 ├── data/
+
 │   ├── Train.csv
+
 │   └── Test.csv
+
 └── requirements.txt
 
 ## Project Overview
